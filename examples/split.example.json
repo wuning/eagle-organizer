@@ -1,0 +1,11 @@
+{
+  "parent_id": "PARENT_FOLDER_ID",
+  "new_folders": [
+    {"id": "SUBFOLDER0001", "name": "Onboarding", "description": "First-run and wallet-setup screens"},
+    {"id": "SUBFOLDER0002", "name": "Settings", "description": "Account and app settings screens"}
+  ],
+  "item_map": {
+    "ITEM_ID_1": "SUBFOLDER0001",
+    "ITEM_ID_2": "SUBFOLDER0002"
+  }
+}

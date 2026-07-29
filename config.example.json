@@ -1,0 +1,21 @@
+{
+  "library_path": "/path/to/Your.library",
+  "cache_path": "~/Library/Application Support/Eagle/library-caches",
+  "folders": {
+    "__comment": "Run scripts/discover_folders.py against YOUR library and paste the result here. The IDs below are placeholders.",
+    "EXAMPLE_ID_DASHBOARD": "05-Dashboard",
+    "EXAMPLE_ID_FORM": "09-Form",
+    "EXAMPLE_ID_LIST": "07-List-Feed"
+  },
+  "tags": {
+    "usage": ["reference", "competitor-research", "design-resource", "inspiration", "work-screenshot"],
+    "type": ["screenshot", "animation", "illustration", "icon", "vector", "logo", "banner", "dataviz", "flow"],
+    "platform": ["app", "web", "webapp"]
+  },
+  "naming": {
+    "competitor": "competitor-{feature}-{product}-{detail}",
+    "inspiration": "inspiration-{feature}-{trait}",
+    "resource": "resource-{type}-{name}-{source}",
+    "work": "work-{yyyymm}-{project}"
+  }
+}

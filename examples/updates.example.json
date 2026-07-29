@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ITEM_ID_1",
+    "name": "competitor-deposit-acme-usdc",
+    "folders": ["YOUR_FOLDER_ID"],
+    "tags": ["usage-competitor-research", "type-screenshot", "platform-app"]
+  },
+  {
+    "id": "ITEM_ID_2",
+    "name": "inspiration-onboarding-gradient-motion",
+    "folders": ["YOUR_FOLDER_ID"],
+    "tags": ["usage-inspiration", "type-animation", "type-flow"]
+  }
+]

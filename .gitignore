@@ -1,0 +1,16 @@
+# Your real library path + folder IDs live here — never commit
+config.json
+
+# Automatic backups taken before each --apply
+backups/
+
+# iCloud: real git dir lives here, .git is a symlink to it (never track it)
+.git.nosync/
+
+# Personal drafts (Medium articles etc.) — never publish
+_drafts/
+
+# Python / macOS cruft
+__pycache__/
+*.pyc
+.DS_Store
