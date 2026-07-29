@@ -11,9 +11,9 @@
 
 ## Demo
 
-![Eagle Organizer demo](docs/demo.gif)
+![Eagle Organizer demo](docs/demo.zh-TW.gif)
 
-*(30 秒示範：丟入截圖 → 檢視建議的名稱／標籤／資料夾 → 套用。)*
+*(Claude 為你的素材庫提出一套命名／標籤／資料夾方案 —— 你檢查後再套用。)*
 
 ## 什麼時候用這個 —— 什麼時候該用 Eagle 官方 AI
 
