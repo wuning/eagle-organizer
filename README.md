@@ -14,7 +14,7 @@ fill in your own taxonomy in `config.json`.
 
 ![Eagle Organizer demo](docs/demo.gif)
 
-*(Claude proposes a rename / tag / folder plan for your library — you review, then apply.)*
+*(Before → after on a real Eagle library: a cryptic file name (`image00.png`) becomes descriptive and sorted into folders. Claude proposes the plan; you review, then apply.)*
 
 ## When to use this — and when to use Eagle's official AI instead
 

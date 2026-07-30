@@ -13,7 +13,7 @@
 
 ![Eagle Organizer demo](docs/demo.zh-TW.gif)
 
-*(Claude 為你的素材庫提出一套命名／標籤／資料夾方案 —— 你檢查後再套用。)*
+*(真實 Eagle 素材庫的整理前後：亂碼檔名（`image00.png`）變成看得懂的命名並歸入資料夾。Claude 提出方案，你檢查後再套用。)*
 
 ## 什麼時候用這個 —— 什麼時候該用 Eagle 官方 AI
 
