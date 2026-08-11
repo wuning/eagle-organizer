@@ -10,6 +10,10 @@ dry-run-first Python scripts.
 Originally built to tame a large UI-reference library, it works for any Eagle 4.0 library once you
 fill in your own taxonomy in `config.json`.
 
+> **📐 The point isn't the scripts — it's the system.** The naming, tagging, and folder judgment
+> lives in **[`METHODOLOGY.md`](METHODOLOGY.md)**. It's portable: run it here, or hand the preset to
+> Eagle's official AI. The tool executes; the system is the taste.
+
 ## Demo
 
 ![Eagle Organizer demo](docs/demo.gif)

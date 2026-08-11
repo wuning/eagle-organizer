@@ -9,6 +9,10 @@
 最初是為了馴服一個龐大的 UI 參考素材庫而做，只要你在 `config.json` 填入自己的分類規則，
 它適用於任何 Eagle 4.0 素材庫。
 
+> **📐 重點不是腳本，是那套系統。** 命名、標籤、資料夾的判斷全在
+> **[`METHODOLOGY.md`](METHODOLOGY.zh-TW.md)**。它是可攜的：可以在這裡跑，也可以把 preset 交給
+> 官方的 Eagle AI。工具負責出手，系統才是品味。
+
 ## Demo
 
 ![Eagle Organizer demo](docs/demo.zh-TW.gif)
